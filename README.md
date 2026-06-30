@@ -46,4 +46,4 @@ Compact React/TypeScript PWA for workout tracking, top sets, progress trends, lo
 ## Contact
 
 - GitHub: [JozefKovalcin](https://github.com/JozefKovalcin)
-- LinkedIn: [replace with your LinkedIn profile URL](https://www.linkedin.com/in/jozef-kovalcin-5b7072374/)
+- LinkedIn: [https://www.linkedin.com/in/jozef-kovalcin-5b7072374/](https://www.linkedin.com/in/jozef-kovalcin-5b7072374/)
