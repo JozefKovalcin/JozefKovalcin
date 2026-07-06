@@ -2,15 +2,6 @@
 
 Computer Networks MSc student focused on networking, cybersecurity, secure communication, technical support, and practical full-stack systems. I am looking for remote junior roles in technical support, network support, SOC, cloud support, cybersecurity, and implementation engineering.
 
-## Target Roles
-
-- Junior Technical Support Engineer
-- Junior Network Support Engineer
-- Junior SOC Analyst
-- Junior Cloud Support Engineer
-- Junior Cybersecurity Analyst
-- Junior Implementation Engineer
-
 ## Core Skills
 
 - Networking: CCNA, TCP/IP, routing and switching fundamentals, secure communication
