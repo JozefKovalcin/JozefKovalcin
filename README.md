@@ -1,6 +1,6 @@
 # Jozef Kovalcin
 
-Computer Networks MSc student focused on networking, cybersecurity, secure communication, technical support, and practical full-stack systems. I am looking for remote junior roles in technical support, network support, SOC, cloud support, cybersecurity, and implementation engineering.
+Computer Networks MSc student focused on networking, cybersecurity, secure communication, technical support, and practical full-stack systems.
 
 ## Core Skills
 
@@ -16,7 +16,7 @@ Computer Networks MSc student focused on networking, cybersecurity, secure commu
 
 [secure-file-transfer-sake](https://github.com/JozefKovalcin/secure-file-transfer-sake)
 
-Academic C implementation of a secure file transfer tool using a SAKE-inspired authenticated exchange, password-based key derivation, session keys, encrypted chunks, acknowledgements, and key rotation. This project demonstrates low-level networking, secure communication concepts, and careful documentation of cryptographic limitations. It is not independently audited or production-ready cryptography.
+Academic C implementation of a secure file transfer tool using a SAKE-inspired authenticated exchange, password-based key derivation, session keys, encrypted chunks, acknowledgements, and key rotation. The repository documents its cryptographic limitations and has not been independently audited.
 
 ### SportBuddy
 
@@ -28,7 +28,7 @@ Full-stack team project for organizing local sports activities, with activity di
 
 [workout-progress-tracking-pwa](https://github.com/JozefKovalcin/workout-progress-tracking-pwa)
 
-Compact React/TypeScript PWA for workout tracking, top sets, progress trends, local demo mode, optional Firebase mode, and conservative recommendation logic. This project demonstrates focused frontend delivery, testing, Firebase integration, and documentation for local/cloud modes.
+Compact React/TypeScript PWA for workout tracking, top sets, progress trends, local demo mode, optional Firebase mode, and conservative recommendation logic. It includes automated tests, Firebase integration, and documented local and cloud workflows.
 
 ## Certifications
 
