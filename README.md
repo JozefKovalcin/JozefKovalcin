@@ -1,6 +1,6 @@
 # Jozef Kovalčín
 
-MSc Computer Networks student (TUKE, expected 2027). IT operations background, now building delivery automation: CI/CD pipelines, containerised workloads and GitOps deployments. Networking and security depth from CCNA and applied cryptography work.
+MSc Computer Networks student (TUKE, expected 2027). IT operations background, now building delivery automation: CI/CD pipelines, containerised workloads and GitOps deployments. Networking and security depth from CCNA/ENCOR and applied cryptography work. Currently focused on building Tor and Nym mixnet clients for embedded systems.
 
 Based in Prešov, Slovakia. Open to junior DevOps / platform / SRE roles (hybrid Košice, Prešov; remote from Slovakia).
 
@@ -16,6 +16,10 @@ NestJS REST API used as the target workload for a delivery chain: GitLab CI (bui
 
 **Still open:** live GitLab CI and registry publishing, GitLab ID token authentication with Vault, ArgoCD sync/self-healing on kind, and deployment/rollback verification through `/version`.
 
+**[Tor and Nym mixnet clients for embedded systems](https://github.com/JozefKovalcin/Tor-and-NymMixNet-Clients-for-embended-systems)** 
+
+Master thesis. Minimal Tor and Nym mixnet clients targeting constrained embedded environments. 
+
 ## Selected projects
 
 **[Bio-Token-Auth-FIDO2](https://github.com/JozefKovalcin/Bio-Token-Auth-FIDO2)** · TypeScript, Kotlin, Next.js, PostgreSQL
@@ -25,10 +29,6 @@ Multi-factor authentication prototype: FIDO2/WebAuthn with YubiKey, TOTP and And
 **[secure-file-transfer-sake](https://github.com/JozefKovalcin/secure-file-transfer-sake)** · C, sockets
 
 Bachelor thesis, 2025. Encrypted TCP file transfer using a SAKE-inspired authenticated key exchange, Argon2 derivation, ChaCha20-Poly1305 and key rotation. Companion repository [secure-file-transfer-x25519-baseline](https://github.com/JozefKovalcin/secure-file-transfer-x25519-baseline) is the simpler v1 used as a comparison baseline.
-
-**[Tor and Nym mixnet clients for embedded systems](https://github.com/JozefKovalcin/Tor-and-NymMixNet-Clients-for-embended-systems)** — work in progress
-
-Minimal Tor and Nym mixnet clients targeting constrained embedded environments. Implementation and validation are pending.
 
 **[sportbuddy-fullstack-ai](https://github.com/JozefKovalcin/sportbuddy-fullstack-ai)** · TypeScript, Next.js, PostgreSQL, Prisma, Docker
 
@@ -49,6 +49,10 @@ PWA with offline support, automated tests and documented local/cloud workflows.
 ## Certification
 
 Cisco Certified Network Associate (CCNA), February 2025
+
+## Course
+
+Cisco Enterprise ENCOR (350-401), February 2026
 
 ## Notes on the crypto projects
 
