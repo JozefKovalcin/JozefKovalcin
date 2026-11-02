@@ -1,16 +1,17 @@
 # Jozef Kovalcin
 
-Computer Networks MSc student focused on networking, cybersecurity, secure communication, technical support, and practical full-stack systems.
-
-## Core Skills
-
-- Networking: CCNA, TCP/IP, routing and switching fundamentals, secure communication
-- Security: authentication, encryption concepts, security limitations, safe handling of secrets
-- Systems: Linux, Windows, C, sockets, troubleshooting
-- Web and cloud: TypeScript, React, Next.js, Docker, Firebase, PostgreSQL, SQL
-- Delivery: Git, GitHub Actions, documentation, reproducible local setup
+Computer Networks MSc student focused on CI/CD automation, networking, cybersecurity and practical software systems.
 
 ## Featured Projects
+
+### ReleaseLab — CI/CD and GitOps Lab (Work in Progress)
+
+[releaselab](https://github.com/JozefKovalcin/releaselab)
+
+NestJS/TypeScript REST API with automated builds, API key authentication and deployment automation.
+
+- **Verified:** GitHub Actions build, HTTP tests, Docker image packaging and artifact upload; local Vault scoped-token access tests and GitOps update/rollback script tests.
+- **Pending:** end-to-end GitLab CI, GitLab ID token authentication with Vault, registry publishing and live Argo CD sync/self-healing in Kubernetes.
 
 ### Secure TCP File Transfer with SAKE
 
@@ -29,6 +30,14 @@ Full-stack team project for organizing local sports activities, with activity di
 [workout-progress-tracking-pwa](https://github.com/JozefKovalcin/workout-progress-tracking-pwa)
 
 Compact React/TypeScript PWA for workout tracking, top sets, progress trends, local demo mode, optional Firebase mode, and conservative recommendation logic. It includes automated tests, Firebase integration, and documented local and cloud workflows.
+
+## Core Skills
+
+- Networking: CCNA, TCP/IP, routing and switching fundamentals, secure communication
+- Security: authentication, encryption concepts, security limitations, safe handling of secrets
+- Systems: Linux, Windows, C, sockets, troubleshooting
+- Web and cloud: TypeScript, React, Next.js, Docker, Firebase, PostgreSQL, SQL
+- Delivery: Git, GitHub Actions, Docker, Bash, reproducible local setup; GitLab CI and GitOps lab in progress
 
 ## Certifications
 
